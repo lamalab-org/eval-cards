@@ -2,6 +2,8 @@
 
 This repository contains templates and examples for creating evaluation cards - structured documents for describing and documenting machine learning evaluation frameworks in materials science.
 
+You can upload evaluation cards in [a HuggingFace Space](https://huggingface.co/spaces/jablonkagroup/eval-cards-gallery).
+
 ## What are Evaluation Cards?
 
 Evaluation cards are structured documents that capture key aspects of ML evaluation frameworks through the lens of measurement theory. They promote transparency about design choices, limitations, and tradeoffs in evaluation frameworks. Inspired by model cards and data cards, evaluation cards help developers document and users understand:
