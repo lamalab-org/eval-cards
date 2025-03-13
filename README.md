@@ -13,7 +13,9 @@ Evaluation cards are structured documents that capture key aspects of ML evaluat
 ## Getting Started
 
 1. Start with the [template](./template.md) in this repository
-2. Review the [examples](./examples/) directory for completed evaluation cards
+2. Review the examples:
+    - [ChemBench](https://github.com/lamalab-org/chembench/blob/dev/eval-card.md)
+    - [MaCBench](https://github.com/lamalab-org/macbench/blob/main/eval-card.md)
 
 
 ## Template Structure
